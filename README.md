@@ -10,7 +10,7 @@
 
 1. Numpy: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2024s1/blob/main/code/Week01_Intro_Pandas/1_Numpy.ipynb)
 
-2. Pandas: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2024s1/blob/main/code/Week01_Intro_Pandas/Pandas.ipynb)
+2. Pandas: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2024s1/blob/main/code/Week01_Intro_Pandas/2_Pandas.ipynb)
 
 3. Pandas with Youtube stat data: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2024s1/blob/main/code/Week01_Intro_Pandas/3_Pandas_%28Dataset_Trending_YouTube_Video_Statistics%29.ipynb)
 
