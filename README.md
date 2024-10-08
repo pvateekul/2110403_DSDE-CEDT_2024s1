@@ -8,6 +8,8 @@
 
 ### Week01-02: Intro to Numpy, Pandas
 
+0. Python class: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2024s1/blob/main/code/Week01_Intro_Pandas/0_Class.ipynb)
+
 1. Numpy: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2024s1/blob/main/code/Week01_Intro_Pandas/1_Numpy.ipynb)
 
 2. Pandas: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2024s1/blob/main/code/Week01_Intro_Pandas/2_Pandas.ipynb)
