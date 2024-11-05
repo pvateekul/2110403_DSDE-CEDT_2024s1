@@ -57,3 +57,13 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/211040
 9. Market-Basket Analysis: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2024s1/blob/main/code/Week03_ML/9_Market_Basket_Intro_v2.ipynb)
 
 10. Scikit-learn pipeline: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2024s1/blob/main/code/Week03_ML/10_Scikit_learn_Pipeline.ipynb)
+
+### Week05: Intro to Data Engineering
+1. Basic Web Scraping: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2024s1/blob/main/code/Week05_DE_Intro_Data_Extraction/1_basic_web_scraping.ipynb)
+
+2. Wiki Scraping Example: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2024s1/blob/main/code/Week05_DE_Intro_Data_Extraction/2_wiki_scraping_example.ipynb)
+
+3. REST API Extraction: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2024s1/blob/main/code/Week05_DE_Intro_Data_Extraction/3_REST_API_extraction.ipynb)
+
+4. Selenium: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2024s1/blob/main/code/Week05_DE_Intro_Data_Extraction/4_selenium.ipynb)
+
