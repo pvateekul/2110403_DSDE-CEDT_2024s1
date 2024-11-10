@@ -1,0 +1,24 @@
+version: '3'
+
+services:
+  zookeeper:
+    image: wurstmeister/zookeeper
+    container_name: zookeeper
+    ports:
+      - "2181:2181"
+  kafka:
+    image: wurstmeister/kafka
+    container_name: kafka
+    ports:
+      - "9092:9092"
+    environment:
+      KAFKA_ADVERTISED_HOST_NAME: localhost
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_CREATE_TOPICS: "sample:1:1,sample2:2:1,avro:1:1,data:1:1,notification:1:1,transaction:1:1,submit:1:1,result:1:1"
+      KAFKA_LOG_RETENTION_HOURS: 1
+      KAFKA_LOG_RETENTION_BYTES: 1073741824
+      KAFKA_LOG_SEGMENT_BYTES: 107374182
+      KAFKA_LOG_RETENTION_CHECK_INTERVAL_MS: 20000
+      KAFKA_LOG_SEGMENT_DELETE_DELAY_MS: 1000
+    depends_on:
+      - "zookeeper"

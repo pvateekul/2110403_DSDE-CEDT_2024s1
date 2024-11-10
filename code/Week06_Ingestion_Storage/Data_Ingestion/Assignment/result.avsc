@@ -1,0 +1,13 @@
+{
+   "namespace": "assignment.avro",
+   "type": "record",
+   "name": "result",
+   "fields": [
+      {"name": "timestamp", "type": "long"},
+      {"name": "vid", "type": "string"},
+      {"name": "txid", "type": "string"},
+      {"name": "checksum", "type": "string"},
+      {"name": "code", "type": "int"},
+      {"name": "message", "type": "string"}
+   ] 
+ }

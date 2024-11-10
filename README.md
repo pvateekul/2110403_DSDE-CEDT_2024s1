@@ -57,3 +57,23 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/211040
 9. Market-Basket Analysis: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2024s1/blob/main/code/Week03_ML/9_Market_Basket_Intro_v2.ipynb)
 
 10. Scikit-learn pipeline: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2024s1/blob/main/code/Week03_ML/10_Scikit_learn_Pipeline.ipynb)
+
+
+### Week05: Data Extraction
+
+1. Basic Web Scraping [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2024s1/blob/main/code/Week05_DE_Intro_Data_Extraction/1_basic_web_scraping.ipynb)
+
+2. Wikipedia Scaping [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2024s1/blob/main/code/Week05_DE_Intro_Data_Extraction/2_wiki_scraping_example.ipynb)
+
+3. REST API Extraction [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2024s1/blob/main/code/Week05_DE_Intro_Data_Extraction/3_REST_API_extraction.ipynb)
+
+4. Selenium [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2024s1/blob/main/code/Week05_DE_Intro_Data_Extraction/4_Selenium.ipynb)
+
+
+### Week06: Data Ingestion and Data Storage
+
+The Kafka and Redis sample codes cannot be openned in Colab as it requires connection to local kafka server and local redis server. See more details in:
+- [week06 Data Ingestion code section](https://github.com/pvateekul/2110403_DSDE-CEDT_2024s1/tree/main/code/Week06_Ingestion_Storage/Data_Ingestion)
+- [week06 Data Storage code section](https://github.com/pvateekul/2110403_DSDE-CEDT_2024s1/tree/main/code/Week06_Ingestion_Storage/Data_Storage).
+
+

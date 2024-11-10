@@ -1,0 +1,10 @@
+{
+   "namespace": "sample.avro",
+   "type": "record",
+   "name": "Event",
+   "fields": [
+      {"name": "key", "type": "string"},
+      {"name": "value", "type": "string"},
+      {"name": "timestamp", "type": "long"}
+   ] 
+ }

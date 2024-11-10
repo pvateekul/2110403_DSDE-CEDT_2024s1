@@ -1,0 +1,10 @@
+{
+   "namespace": "assignment.avro",
+   "type": "record",
+   "name": "submit",
+   "fields": [
+      {"name": "vid", "type": "string"},
+      {"name": "txid", "type": "string"},
+      {"name": "signature", "type": "string"}
+   ] 
+ }

@@ -1,0 +1,11 @@
+{
+   "namespace": "assignment.avro",
+   "type": "record",
+   "name": "transaction",
+   "fields": [
+      {"name": "txid", "type": "string"},
+      {"name": "payer", "type": "string"},
+      {"name": "payee", "type": "string"},
+      {"name": "amount", "type": "int"}
+   ] 
+ }
