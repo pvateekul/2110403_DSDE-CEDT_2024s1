@@ -77,3 +77,11 @@ The Kafka and Redis sample codes cannot be openned in Colab as it requires conne
 - [week06 Data Storage code section](https://github.com/pvateekul/2110403_DSDE-CEDT_2024s1/tree/main/code/Week06_Ingestion_Storage/Data_Storage).
 
 
+### Week07: Big Data Processing with Apache Spark
+
+1. Basic Spark: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2024s1/blob/main/code/Week07_Spark/1_Basic_Spark.ipynb)
+
+2. Spark SQL: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2024s1/blob/main/code/Week07_Spark/2_Spark_SQL.ipynb)
+
+3. Spark ML: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2024s1/blob/main/code/Week07_Spark/3_Spark_ML.ipynb)
+
