@@ -85,3 +85,6 @@ The Kafka and Redis sample codes cannot be openned in Colab as it requires conne
 
 3. Spark ML: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110403_DSDE-CEDT_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110403_DSDE-CEDT_2024s1/blob/main/code/Week07_Spark/3_Spark_ML.ipynb)
 
+### Week08: Data Visualization
+
+- [week08 Data Visualization section](https://github.com/pvateekul/2110403_DSDE-CEDT_2024s1/tree/main/code/Week08_Visualization)
